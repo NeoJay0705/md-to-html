@@ -1,0 +1,13 @@
+# virtualenv
+.venv
+
+# vscode
+.vscode
+
+# git
+
+# python
+mdtohtml/__pycache__
+test/__pycache__
+layout/
+resource
