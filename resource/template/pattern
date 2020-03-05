@@ -1,0 +1,12 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="https://jbt.github.io/markdown-editor/lib/github-markdown.css">
+</head>
+<body>
+<div class="markdown-body" style="margin:auto;width:80%;">
+
+{{htmlCode}}
+
+</div>
+</body>
+</html>
